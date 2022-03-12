@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cricklew.github.io</id>
-    <title>K</title>
-    <updated>2022-03-12T05:37:41.488Z</updated>
+    <title>K.</title>
+    <updated>2022-03-12T07:40:00.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cricklew.github.io"/>
     <link rel="self" href="https://cricklew.github.io/atom.xml"/>
-    <subtitle>待补充--座右铭</subtitle>
+    <subtitle>华尔街的狼只有一个案例，我们可否做华尔街的鹰。</subtitle>
     <logo>https://cricklew.github.io/images/avatar.png</logo>
     <icon>https://cricklew.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, K</rights>
+    <rights>All rights reserved 2022, K.</rights>
     <entry>
         <title type="html"><![CDATA[你好，交易者]]></title>
         <id>https://cricklew.github.io/post/你好，交易者/</id>
         <link href="https://cricklew.github.io/post/你好，交易者/">
         </link>
         <updated>2022-03-12T04:18:55.000Z</updated>
-        <content type="html"><![CDATA[<p>👏  欢迎关注 <strong>K</strong> ！<br>
-✍️  <strong>K</strong> .......。你........... ...</p>
-<p>兄弟们搞点文案出来啊✍️✍️✍️</p>
+        <summary type="html"><![CDATA[<p>👏  欢迎关注 <strong>K</strong> ！ 🔥</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎关注 <strong>K</strong> ！ 🔥</p>
+<!-- more -->
+<center>
+风林火山
+<p>投资如风  复利如林<br>
+出手如火  不动如山</p>
+<p><strong>₿ 未来，已来 ₿</strong></p>
 ]]></content>
     </entry>
 </feed>
