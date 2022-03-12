@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cricklew.github.io</id>
     <title>K</title>
-    <updated>2022-03-12T03:57:28.007Z</updated>
+    <updated>2022-03-12T04:31:37.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cricklew.github.io"/>
     <link rel="self" href="https://cricklew.github.io/atom.xml"/>
@@ -11,16 +11,16 @@
     <icon>https://cricklew.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, K</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://cricklew.github.io/post/hello-gridea/</id>
-        <link href="https://cricklew.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[你好，交易者]]></title>
+        <id>https://cricklew.github.io/post/你好，交易者/</id>
+        <link href="https://cricklew.github.io/post/你好，交易者/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <updated>2022-03-12T04:18:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎关注 <strong>K</strong> ！<br>
+✍️  <strong>K</strong> 一个.......。你........... ...</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p>👏  欢迎关注 <strong>K</strong> ！<br>
+✍️  <strong>K</strong> 一个.......。你........... ...</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
